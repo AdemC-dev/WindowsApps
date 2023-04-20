@@ -1,0 +1,10 @@
+D:\Code\vsStudio\Dersler\formNotHesaplama\formNotHesaplama\bin\Debug\WindowsFormsApp1.exe.config
+D:\Code\vsStudio\Dersler\formNotHesaplama\formNotHesaplama\bin\Debug\WindowsFormsApp1.exe
+D:\Code\vsStudio\Dersler\formNotHesaplama\formNotHesaplama\bin\Debug\WindowsFormsApp1.pdb
+D:\Code\vsStudio\Dersler\formNotHesaplama\formNotHesaplama\obj\Debug\formNotHesaplama.csproj.AssemblyReference.cache
+D:\Code\vsStudio\Dersler\formNotHesaplama\formNotHesaplama\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Code\vsStudio\Dersler\formNotHesaplama\formNotHesaplama\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Code\vsStudio\Dersler\formNotHesaplama\formNotHesaplama\obj\Debug\formNotHesaplama.csproj.GenerateResource.cache
+D:\Code\vsStudio\Dersler\formNotHesaplama\formNotHesaplama\obj\Debug\formNotHesaplama.csproj.CoreCompileInputs.cache
+D:\Code\vsStudio\Dersler\formNotHesaplama\formNotHesaplama\obj\Debug\WindowsFormsApp1.exe
+D:\Code\vsStudio\Dersler\formNotHesaplama\formNotHesaplama\obj\Debug\WindowsFormsApp1.pdb

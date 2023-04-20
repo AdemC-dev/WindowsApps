@@ -1,0 +1,7 @@
+D:\Code\vsStudio\Sayi_Tahmin\Sayi_Tahmin\bin\Debug\Sayi_Tahmin.exe.config
+D:\Code\vsStudio\Sayi_Tahmin\Sayi_Tahmin\bin\Debug\Sayi_Tahmin.exe
+D:\Code\vsStudio\Sayi_Tahmin\Sayi_Tahmin\bin\Debug\Sayi_Tahmin.pdb
+D:\Code\vsStudio\Sayi_Tahmin\Sayi_Tahmin\obj\Debug\Sayi_Tahmin.csproj.AssemblyReference.cache
+D:\Code\vsStudio\Sayi_Tahmin\Sayi_Tahmin\obj\Debug\Sayi_Tahmin.csproj.CoreCompileInputs.cache
+D:\Code\vsStudio\Sayi_Tahmin\Sayi_Tahmin\obj\Debug\Sayi_Tahmin.exe
+D:\Code\vsStudio\Sayi_Tahmin\Sayi_Tahmin\obj\Debug\Sayi_Tahmin.pdb
